@@ -1,0 +1,18 @@
+.App {
+  text-align: center;
+}
+
+
+#header{
+  overflow: hidden;
+  background-color: #5f5f5f;
+}
+
+#header p{
+  float: left;
+  display: block;
+  text-align: center;
+  font-size: 20px;
+  margin: 12px 20px;
+  color: #f1f1f1;
+}
